@@ -19,7 +19,7 @@ House: <a href="http://stream.wakenews.de:8000/house-mp3-256.m3u">MP3/HQ</a>&nbs
 <a href="http://stream.wakenews.de:8000/house-vorbis-256.m3u">OGG/HQ</a><br>
 <br>
 <a href="http://unitedwestrike.com/" target="_blank"><img src="http://cdn.wakenews.de/stream/uws-200px.jpg"></a><br>
-<b>United We Strike<br>(European Mirror) <font color="red">*beta*</font></b><br>
+<b>United We Strike<br>(European Mirror) <span style="!important; color: #ff0000;">*beta*</span></b><br>
 <a href="http://stream.wakenews.de:8000/uws-mp3-128.m3u">MP3/128kbit</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://stream.wakenews.de:8000/uws-mp3-32.m3u">MP3/32kbit</a>
 <br>
