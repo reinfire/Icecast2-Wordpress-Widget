@@ -1,34 +1,23 @@
 <div style="text-align:center;>
-<a href="http://www.wakenews.net" target="_blank"><img src="http://wakenews.net/stream/wakenews-top.png"></a><br>
-<a href="http://wakenews.net/stream/alles.m3u"><img src="http://wakenews.net/stream/m3u.png"></a>&nbsp;&nbsp;&nbsp;
-<a href="http://wakenews.net/stream/alles.xspf"><img src="http://wakenews.net/stream/xspf.png"></a>&nbsp;&nbsp;&nbsp;
-<a href="http://wakenews.net/stream/alles.pls"><img src="http://wakenews.net/stream/pls.png"></a><br><br>
-<a href="http://www.wakenews.net" target="_blank"><img src="http://wakenews.net/stream/wakenews-200px.jpg"></a><br>
+<a href="http://www.wakenews.net" target="_blank"><img src="https://stream.wakenews.net/stream/wakenews-top.png"></a><br>
+<a href="https://stream.wakenews.net/stream/alles.m3u"><img src="https://stream.wakenews.net/stream/m3u.png"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://stream.wakenews.net/stream/alles.xspf"><img src="https://stream.wakenews.net/stream/xspf.png"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://stream.wakenews.net/stream/alles.pls"><img src="https://stream.wakenews.net/stream/pls.png"></a><br><br>
+<a href="https://stream.www.wakenews.net" target="_blank"><img src="https://stream.wakenews.net/stream/wakenews-200px.jpg"></a><br>
 <b>Wake News (c) Radio</b><br>
 MP3:
-<a href="http://wakenews.net/stream/radio-high.mp3.m3u">128kbit</a>&nbsp;|&nbsp;
-<a href="http://wakenews.net/stream/radio-mid.mp3.m3u">32kbit</a>&nbsp;|&nbsp;
-<a href="http://wakenews.net/stream/radio-low.mp3.m3u">24kbit</a><br>
+<a href="https://stream.wakenews.net/stream/radio-high.mp3.m3u">160kbit</a>&nbsp;|&nbsp;
+<a href="https://stream.wakenews.net/stream/radio-mid.mp3.m3u">64kbit</a>&nbsp;|&nbsp;
+<a href="https://stream.wakenews.net/stream/radio-low.mp3.m3u">32kbit</a><br>
 OGG:
-<a href="http://wakenews.net/stream/radio-high.ogg.m3u">128kbit</a>&nbsp;|&nbsp;
-<a href="http://wakenews.net/stream/radio-mid.ogg.m3u">32kbit</a>&nbsp;|&nbsp;
-<a href="http://wakenews.net/stream/radio-low.opus.m3u">24kbit</a><br>
+<a href="https://stream.wakenews.net/stream/radio-high.ogg.m3u">160kbit</a>&nbsp;|&nbsp;
+<a href="https://stream.wakenews.net/stream/radio-mid.ogg.m3u">64kbit</a>&nbsp;|&nbsp;
+<a href="https://stream.wakenews.net/stream/radio-low.opus.m3u">32kbit</a><br>
 <br>
-<a href="http://musicwakenews.wordpress.com" target="_blank"><img src="http://wakenews.net/stream/wakenews-musik-200px.jpg"></a><br>
+<a href="https://musicwakenews.wordpress.com" target="_blank"><img src="https://stream.wakenews.net/stream/wakenews-musik-200px.jpg"></a><br>
 <b>Wake News (c) Music</b><br>
 Various: <a href="http://wakenews.net/stream/music-high.mp3.m3u">MP3/HQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="http://wakenews.net/stream/music-high.ogg.m3u">OGG/HQ</a><br>
+<a href="http://stream.wakenews.net/stream/music-high.ogg.m3u">OGG/HQ</a><br>
 Electro: <a href="http://wakenews.net/stream/house-high.mp3.m3u">MP3/HQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="http://wakenews.net/stream/house-high.ogg.m3u">OGG/HQ</a><br>
-<br>
-<a href="http://unitedwestrike.com/" target="_blank"><img src="http://wakenews.net/stream/uws-200px.jpg"></a><br>
-<b>United We Strike</b><br>
-MP3:
-<a href="http://wakenews.net/stream/uws-high.mp3.m3u">128kbit</a>&nbsp;|&nbsp;
-<a href="http://wakenews.net/stream/uws-mid.mp3.m3u">32kbit</a>&nbsp;|&nbsp;
-<a href="http://wakenews.net/stream/uws-low.mp3.m3u">24kbit</a><br>
-OGG:
-<a href="http://wakenews.net/stream/uws-high.ogg.m3u">128kbit</a>&nbsp;|&nbsp;
-<a href="http://wakenews.net/stream/uws-mid.ogg.m3u">32kbit</a>&nbsp;|&nbsp;
-<a href="http://wakenews.net/stream/uws-low.opus.m3u">24kbit</a><br>
+<a href="http://stream.wakenews.net/stream/house-high.ogg.m3u">OGG/HQ</a><br>
 </div>
