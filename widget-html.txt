@@ -16,8 +16,8 @@ OGG:
 <br>
 <a href="https://musicwakenews.wordpress.com" target="_blank"><img src="https://stream.wakenews.net/wakenews-music-200px.jpg"></a><br>
 <b>Wake News (c) Music</b><br>
-Various: <a href="http://wakenews.net/music-high.mp3.m3u">MP3/HQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+Various: <a href="http://stream.wakenews.net/music-high.mp3.m3u">MP3/HQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://stream.wakenews.net/music-high.ogg.m3u">OGG/HQ</a><br>
-Electro: <a href="http://wakenews.net/electro-high.mp3.m3u">MP3/HQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+Electro: <a href="http://stream.wakenews.net/electro-high.mp3.m3u">MP3/HQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://stream.wakenews.net/electro-high.ogg.m3u">OGG/HQ</a><br>
 </div>
