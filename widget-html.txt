@@ -3,7 +3,7 @@
 <a href="https://stream.wakenews.net/alles.m3u"><img src="https://stream.wakenews.net/m3u.png"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://stream.wakenews.net/alles.xspf"><img src="https://stream.wakenews.net/xspf.png"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://stream.wakenews.net/alles.pls"><img src="https://stream.wakenews.net/pls.png"></a><br><br>
-<a href="https://stream.www.wakenews.net" target="_blank"><img src="https://stream.wakenews.net/wakenews-200px.jpg"></a><br>
+<a href="http://www.wakenews.net" target="_blank"><img src="https://stream.wakenews.net/wakenews-200px.jpg"></a><br>
 <b>Wake News (c) Radio</b><br>
 MP3:
 <a href="https://stream.wakenews.net/radio-high.mp3.m3u">160kbit</a>&nbsp;|&nbsp;
