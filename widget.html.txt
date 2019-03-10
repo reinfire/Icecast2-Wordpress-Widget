@@ -7,11 +7,11 @@
 <b>Wake News (c) Radio</b><br>
 MP3:
 <a href="https://stream.wakenews.net/radio-high.mp3.m3u">160kbit</a>&nbsp;|&nbsp;
-<a href="https://stream.wakenews.net/radio-mid.mp3.m3u">64kbit</a>&nbsp;|&nbsp;
+<a href="https://stream.wakenews.net/radio-mid.mp3.m3u">96kbit</a>&nbsp;|&nbsp;
 <a href="https://stream.wakenews.net/radio-low.mp3.m3u">32kbit</a><br>
 OGG:
 <a href="https://stream.wakenews.net/radio-high.ogg.m3u">160kbit</a>&nbsp;|&nbsp;
-<a href="https://stream.wakenews.net/radio-mid.ogg.m3u">64kbit</a>&nbsp;|&nbsp;
+<a href="https://stream.wakenews.net/radio-mid.ogg.m3u">96kbit</a>&nbsp;|&nbsp;
 <a href="https://stream.wakenews.net/radio-low.ogg.m3u">32kbit</a><br>
 <br>
 <a href="https://musicwakenews.wordpress.com" target="_blank"><img src="https://stream.wakenews.net/wakenews-music-200px.jpg"></a><br>
